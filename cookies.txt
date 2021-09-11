@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	CONSENT	PENDING+897
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	A9cnI_TzMKA
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+recoverykings.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+recoverykings.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_1b3a4d885caeea3f35a0533eed025147	e06439425fd4b3f12bb8dc298e90ff3b%7C%7C1630764022%7C%7C1630760422%7C%7Caf2928e649cd183bdf3cf0166b417348
+consent.youtube.com	TRUE	/	FALSE	1999999999	CONSENT_XSRF_SECURITY	hsBOfXFCMjA=
+consent.youtube.com	TRUE	/	FALSE	1999999999	SameSite	lax
+recoverykings.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	47c27c9ec1c00201880eb0db60d392e0
+

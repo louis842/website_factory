@@ -1,0 +1,122 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Sep 2021 14:59:08 at https://recoverykings.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://recoverykings.net/ -O1 "E:\Websites\RecoveryKings" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://recoverykings.net/wp-content/plugins/scrollbar-by-webxapp/assets/css/style.css?ver=1.2.1
+14:59:52	Warning: 	Note: due to stats.wp.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+14:59:52	Warning: 	Moved Permanently for stats.wp.com/
+14:59:52	Warning: 	File has moved from stats.wp.com/ to https://wordpress.com/
+14:59:54	Error: 	"Not Found" (404) at link cdn.rawgit.com/ (from https://recoverykings.net/)
+14:59:54	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://recoverykings.net/)
+14:59:55	Warning: 	Moved Permanently for s.w.org/
+14:59:55	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+14:59:55	Error: 	"Bad Request" (400) at link i0.wp.com/ (from https://recoverykings.net/)
+14:59:55	Error: 	"Bad Request" (400) at link i1.wp.com/ (from https://recoverykings.net/)
+14:59:56	Error: 	"Bad Request" (400) at link i2.wp.com/ (from https://recoverykings.net/)
+14:59:56	Warning: 	Moved Permanently for c0.wp.com/robots.txt
+14:59:56	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/robots.txt and https://c0.wp.com/robots.txt
+14:59:56	Warning: 	Warning moved treated for c0.wp.com/robots.txt (real one is https://c0.wp.com/robots.txt)
+14:59:56	Warning: 	Moved Permanently for c0.wp.com/
+14:59:56	Warning: 	Redirected link is identical because of 'URL Hack' option: c0.wp.com/ and https://c0.wp.com/
+14:59:56	Warning: 	File has moved from c0.wp.com/ to https://c0.wp.com/
+15:00:25	Error: 	"Method Not Allowed" (405) at link https://recoverykings.net/xmlrpc.php (from https://recoverykings.net/)
+15:01:49	Error: 	"Not Found" (404) at link https://recoverykings.net/wp-content/themes/leverage/assets/fonts/icons/Icons-Line.svg?v=2.4.0 (from https://recoverykings.net/wp-content/themes/leverage/assets/css/vendor/icons.min.css?ver=2.0.7)
+15:01:49	Error: 	"Not Found" (404) at link https://recoverykings.net/wp-content/themes/leverage/assets/images/favicon.ico (from https://recoverykings.net/wp-content/themes/leverage/assets/css/vendor/gallery.min.css?ver=2.0.7)
+15:01:55	Warning: 	Moved Permanently for https://recoverykings.net/?p=1104
+15:01:55	Warning: 	File has moved from https://recoverykings.net/?p=1104 to https://recoverykings.net/product/impulse/
+15:02:08	Warning: 	Moved Permanently for https://recoverykings.net/?p=756
+15:02:08	Warning: 	File has moved from https://recoverykings.net/?p=756 to https://recoverykings.net/product/2take1/
+15:02:15	Warning: 	Moved Permanently for https://recoverykings.net/?p=4119
+15:02:15	Warning: 	File has moved from https://recoverykings.net/?p=4119 to https://recoverykings.net/product/cherax/
+15:02:21	Warning: 	Moved Permanently for https://recoverykings.net/?p=5660
+15:02:21	Warning: 	File has moved from https://recoverykings.net/?p=5660 to https://recoverykings.net/product/delusion/
+15:02:24	Warning: 	Moved Permanently for https://recoverykings.net/?p=479
+15:02:24	Warning: 	File has moved from https://recoverykings.net/?p=479 to https://recoverykings.net/product/fragment/
+15:02:25	Warning: 	Moved Permanently for https://recoverykings.net/?p=3959
+15:02:25	Warning: 	File has moved from https://recoverykings.net/?p=3959 to https://recoverykings.net/product/0xcheats-gtav/
+15:02:27	Warning: 	Moved Permanently for https://recoverykings.net/?p=3955
+15:02:27	Warning: 	File has moved from https://recoverykings.net/?p=3955 to https://recoverykings.net/product/midnight/
+15:02:32	Warning: 	Moved Permanently for https://recoverykings.net/?p=64
+15:02:32	Warning: 	File has moved from https://recoverykings.net/?p=64 to https://recoverykings.net/product/ilusion-engine/
+15:02:35	Warning: 	Moved Permanently for https://recoverykings.net/?p=2777
+15:02:35	Warning: 	File has moved from https://recoverykings.net/?p=2777 to https://recoverykings.net/product/oxid/
+15:02:35	Warning: 	Moved Permanently for https://recoverykings.net/?p=6116
+15:02:35	Warning: 	File has moved from https://recoverykings.net/?p=6116 to https://recoverykings.net/product/ovix/
+15:02:38	Warning: 	Moved Permanently for https://recoverykings.net/?p=41
+15:02:38	Warning: 	File has moved from https://recoverykings.net/?p=41 to https://recoverykings.net/product/raiden/
+15:02:39	Warning: 	Moved Permanently for https://recoverykings.net/?p=3967
+15:02:39	Warning: 	File has moved from https://recoverykings.net/?p=3967 to https://recoverykings.net/product/0xcheats-rdr2/
+15:02:41	Warning: 	Moved Permanently for https://recoverykings.net/?p=5163
+15:02:41	Warning: 	File has moved from https://recoverykings.net/?p=5163 to https://recoverykings.net/product/redengine/
+15:02:43	Warning: 	Moved Permanently for https://recoverykings.net/?p=3969
+15:02:43	Warning: 	File has moved from https://recoverykings.net/?p=3969 to https://recoverykings.net/product/0xcheats-ragemp-full/
+15:02:46	Warning: 	Moved Permanently for https://recoverykings.net/?p=5144
+15:02:46	Warning: 	File has moved from https://recoverykings.net/?p=5144 to https://recoverykings.net/product/lucifer/
+15:02:52	Warning: 	Moved Permanently for https://recoverykings.net/?p=1493
+15:02:52	Warning: 	File has moved from https://recoverykings.net/?p=1493 to https://recoverykings.net/product/gta-accounts/
+15:02:56	Warning: 	Moved Permanently for https://recoverykings.net/?p=5079
+15:02:56	Warning: 	File has moved from https://recoverykings.net/?p=5079 to https://recoverykings.net/product/netflix/
+15:03:01	Warning: 	Moved Permanently for https://recoverykings.net/?p=4191
+15:03:01	Warning: 	File has moved from https://recoverykings.net/?p=4191 to https://recoverykings.net/product/spotify/
+15:03:03	Warning: 	Moved Permanently for https://recoverykings.net/?p=956
+15:03:03	Warning: 	File has moved from https://recoverykings.net/?p=956 to https://recoverykings.net/paypal/
+15:03:03	Warning: 	Moved Permanently for https://recoverykings.net/?p=1282
+15:03:03	Warning: 	File has moved from https://recoverykings.net/?p=1282 to https://recoverykings.net/free-mod-menus/
+15:03:03	Warning: 	Moved Permanently for https://recoverykings.net/?p=1559
+15:03:03	Warning: 	File has moved from https://recoverykings.net/?p=1559 to https://recoverykings.net/help-section/
+15:03:03	Warning: 	Moved Permanently for https://recoverykings.net/?p=11
+15:03:03	Warning: 	File has moved from https://recoverykings.net/?p=11 to https://recoverykings.net/my-account/
+15:03:04	Warning: 	Moved Permanently for https://recoverykings.net/?p=854
+15:03:04	Warning: 	File has moved from https://recoverykings.net/?p=854 to https://recoverykings.net/terms-and-conditions/
+15:03:04	Warning: 	Moved Permanently for https://recoverykings.net/?p=3
+15:03:04	Warning: 	File has moved from https://recoverykings.net/?p=3 to https://recoverykings.net/privacy-policy/
+15:03:04	Warning: 	Moved Permanently for https://recoverykings.net/shop/page/1/
+15:03:04	Warning: 	File has moved from https://recoverykings.net/shop/page/1/ to https://recoverykings.net/shop/
+15:04:20	Warning: 	Moved Permanently for https://recoverykings.net/product-category/gta-mod-menus/page/1/
+15:04:20	Warning: 	File has moved from https://recoverykings.net/product-category/gta-mod-menus/page/1/ to https://recoverykings.net/product-category/gta-mod-menus/
+15:04:24	Warning: 	Moved Permanently for https://recoverykings.net/?p=3910
+15:04:24	Warning: 	File has moved from https://recoverykings.net/?p=3910 to https://recoverykings.net/product/phantomx/
+15:04:28	Warning: 	Moved Permanently for https://recoverykings.net/?p=5457
+15:04:28	Warning: 	File has moved from https://recoverykings.net/?p=5457 to https://recoverykings.net/product/stand/
+15:04:54	Warning: 	Moved Permanently for https://recoverykings.net/?p=9
+15:04:54	Warning: 	File has moved from https://recoverykings.net/?p=9 to https://recoverykings.net/cart/
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=ea5d2f1c4608232e07d3aa3d998e5135&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=1b69ebedb522700034547abc5652ffac&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=1b69ebedb522700034547abc5652ffac&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=3f900db2608fb3eecb3ee77ba9ef5f60&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=3f900db2608fb3eecb3ee77ba9ef5f60&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=3416a75f4cea9109507cacd8e2f2aefc&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=3416a75f4cea9109507cacd8e2f2aefc&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=b4a721cfb62f5d19ec61575114d8a2d1&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=b4a721cfb62f5d19ec61575114d8a2d1&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=fa1839c55070bf5cb53fd4a2e523641c&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=fa1839c55070bf5cb53fd4a2e523641c&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=d18f655c3fce66ca401d5f38b48c89af&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=d18f655c3fce66ca401d5f38b48c89af&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=082a8bbf2c357c09f26675f9cf5bcba3&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=082a8bbf2c357c09f26675f9cf5bcba3&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:04:54	Warning: 	Found for https://recoverykings.net/cart/?remove_item=a01dfc715df9621113e91549c0ee7651&_wpnonce=7dc7119d60
+15:04:54	Warning: 	File has moved from https://recoverykings.net/cart/?remove_item=a01dfc715df9621113e91549c0ee7651&_wpnonce=7dc7119d60 to http://recoverykings.net/cart/?removed_item=1
+15:05:04	Warning: 	Moved Permanently for https://recoverykings.net/product-tag/cheap/page/1/
+15:05:04	Warning: 	File has moved from https://recoverykings.net/product-tag/cheap/page/1/ to https://recoverykings.net/product-tag/cheap/
+15:05:04	Warning: 	Moved Permanently for https://recoverykings.net/product-tag/gta/page/1/
+15:05:04	Warning: 	File has moved from https://recoverykings.net/product-tag/gta/page/1/ to https://recoverykings.net/product-tag/gta/
+15:05:15	Warning: 	Note: due to recoverykings.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:05:16	Warning: 	Moved Permanently for https://recoverykings.net/?p=10
+15:05:16	Warning: 	File has moved from https://recoverykings.net/?p=10 to https://recoverykings.net/checkout/
+15:05:16	Warning: 	Found for https://recoverykings.net/cart/?undo_item=3f900db2608fb3eecb3ee77ba9ef5f60&_wpnonce=7dc7119d60
+15:05:16	Warning: 	File has moved from https://recoverykings.net/cart/?undo_item=3f900db2608fb3eecb3ee77ba9ef5f60&_wpnonce=7dc7119d60 to http://recoverykings.net/checkout/
+15:05:16	Warning: 	Found for https://recoverykings.net/cart/?undo_item=3416a75f4cea9109507cacd8e2f2aefc&_wpnonce=7dc7119d60
+15:05:16	Warning: 	File has moved from https://recoverykings.net/cart/?undo_item=3416a75f4cea9109507cacd8e2f2aefc&_wpnonce=7dc7119d60 to http://recoverykings.net/checkout/
+15:05:16	Warning: 	Found for https://recoverykings.net/cart/?undo_item=d18f655c3fce66ca401d5f38b48c89af&_wpnonce=7dc7119d60
+15:05:16	Warning: 	File has moved from https://recoverykings.net/cart/?undo_item=d18f655c3fce66ca401d5f38b48c89af&_wpnonce=7dc7119d60 to http://recoverykings.net/checkout/
+15:05:16	Warning: 	Found for https://recoverykings.net/cart/?undo_item=082a8bbf2c357c09f26675f9cf5bcba3&_wpnonce=7dc7119d60
+15:05:16	Warning: 	File has moved from https://recoverykings.net/cart/?undo_item=082a8bbf2c357c09f26675f9cf5bcba3&_wpnonce=7dc7119d60 to http://recoverykings.net/checkout/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 14 seconds : 851 links scanned, 781 files written (66283399 bytes overall) [46138766 bytes received at 123365 bytes/sec], 29374361 bytes transferred using HTTP compression in 680 files, ratio 28%, 1.1 requests per connection
+(8 errors, 103 warnings, 0 messages)
